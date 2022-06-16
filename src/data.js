@@ -1,3 +1,5 @@
+
+
 export const projects = [
     {
       title: "React Reserve",
@@ -5,7 +7,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-1.gif",
-      link: "",
+      link: "https://reactbootcamp.com",
     },
     {
       title: "React Tracks",
@@ -13,7 +15,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-2.gif",
-      link: "",
+      link: "https://reedbarger.com",
     },
     {
       title: "DevChat",
@@ -21,7 +23,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-3.gif",
-      link: "",
+      link: "https://jsbootcamp.com",
     },
     {
       title: "Epic Todo App",
@@ -29,6 +31,6 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-4.gif",
-      link: "",
+      link: "https://pythonbootcamp.com",
     },
   ];
