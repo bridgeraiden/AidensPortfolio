@@ -35,3 +35,15 @@ export const projects = [
     },
 
   ];
+
+  export const skills = [
+    {skill: "Marketing Research"},
+    {skill: "Marketing Plan Development"},
+    {skill: "Social Media Marketing"},
+    {skill: "HTML & CSS"},
+    {skill: "JavaScript"},
+    {skill: "Front-end Frameworks (Angular & React"},
+    {skill: "Version Control (Git)"},
+    {skill: "Databases (MySQL, SQL Server)"},
+
+  ];
